@@ -19,7 +19,6 @@ This project documents a full small business network installation completed for 
 Mounted UniFi AP on ceiling with clean vertical cable routing.
 ![Kitchen Install](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/IMG_20220624_165935.jpg)
 
-
 ### Kitchen Area - 2nd AP Install & Cable Routing
 Mounted a second UniFi AP for stronger internet.
 ![Kitchen Install](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/kitchen_install.jpg)
@@ -28,8 +27,12 @@ Mounted a second UniFi AP for stronger internet.
 Ethernet routing and switch placement in service cabinet.
 ![Backroom Wiring](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/cables.jpg)
 
-### Front Counter – Ceiling-Mounted Access Point
+### Back Room – Ceiling-Mounted Access Point
 Discreet front-of-house AP for improved customer WiFi.
+![Ceiling AP](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/accesspoint.jpg)
+
+### Front Counter – Router & Switch Setup  
+Primary router used to power the network. Ethernet cables were routed through the basement and connected to multiple switches throughout the building to ensure full coverage and performance.
 ![Ceiling AP](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/accesspoint.jpg)
 
 ---
