@@ -1,0 +1,57 @@
+# Restaurant Network Installation – Mosaic Café
+
+This project documents a full small business network installation completed for Mosaic Café in Old Bridge, NJ. Work included hardware selection, access point placement, Ethernet cabling, device setup, and hands-on support.
+
+---
+
+## 🔧 Scope of Work
+- Installation of ceiling-mounted Ubiquiti UniFi Access Points
+- Cable management using surface-mount raceways
+- POS printer and device network integration
+- Network switch and power adapter setup
+- WiFi coverage testing and troubleshooting
+
+---
+
+## 📷 Project Photos
+
+### Kitchen Area – AP Install & Cable Routing
+Mounted UniFi AP on ceiling with clean vertical cable routing.
+![Access Point Install](images/ap_install_kitchen.jpg)
+
+### POS & Printer Station
+Wired POS printers and network power setup with surface raceway.
+![Printer Setup](images/printer_station.jpg)
+
+### Back Room – Network Hardware
+Ethernet routing and switch placement in service cabinet.
+![Backroom Wiring](images/backroom_network.jpg)
+
+### Front Counter – Ceiling-Mounted Access Point
+Discreet front-of-house AP for improved customer WiFi.
+![Ceiling AP](images/front_counter_ap.jpg)
+
+---
+
+## 🧰 Tools & Equipment Used
+- Ubiquiti UniFi Access Points
+- Ethernet cable, crimping & punch-down tools
+- Surface-mount raceways
+- Network switch & power adapters
+- Screw mounts, mounting brackets, and basic hand tools
+
+---
+
+## ✅ Outcome
+- Improved WiFi coverage throughout the restaurant
+- Stable connectivity for POS systems and staff devices
+- Neat and professional cable management
+- Enhanced wireless performance and easier future maintenance
+
+---
+
+## 📍 Location
+**Mosaic Café – Old Bridge, NJ**  
+Completed: 2021  
+Deployed: 2 Access Points, full backend network setup
+
