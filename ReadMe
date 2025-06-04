@@ -33,7 +33,11 @@ Discreet front-of-house AP for improved customer WiFi.
 
 ### Front Counter – Router & Switch Setup  
 Primary router used to power the network. Ethernet cables were routed through the basement and connected to multiple switches throughout the building to ensure full coverage and performance.
-![Ceiling AP](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/front_desk.jpg)
+![Main Router/Switch](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/front_desk.jpg)
+
+### Front Counter – Main POS Tablet
+Primary POS tablet used for transactions at the restaurant
+![Main Counter](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/counter.jpg)
 
 ---
 
