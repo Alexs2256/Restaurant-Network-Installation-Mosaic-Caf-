@@ -27,8 +27,8 @@ Mounted a second UniFi AP for stronger internet.
 Ethernet routing and switch placement in service cabinet.
 ![Backroom Wiring](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/cables.jpg)
 
-### Back Room – Ceiling-Mounted Access Point
-Discreet front-of-house AP for improved customer WiFi.
+### Back Room – Ceiling-Mounted Access Point  
+Mounted a ceiling AP in the dining room area to improve WiFi for customer seating and POS devices.
 ![Ceiling AP](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/accesspoint.jpg)
 
 ### Front Counter – Router & Switch Setup  
@@ -36,7 +36,7 @@ Primary router used to power the network. Ethernet cables were routed through th
 ![Main Router/Switch](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/front_desk.jpg)
 
 ### Front Counter – Main POS Tablet
-Primary POS tablet used for transactions at the restaurant
+Primary POS tablet used for front-of-house transactions.
 ![Main Counter](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/counter.jpg)
 
 ---
@@ -61,5 +61,6 @@ Primary POS tablet used for transactions at the restaurant
 ## 📍 Location
 **Mosaic Café – Old Bridge, NJ**  
 Completed: 2021  
-Deployed: 2 Access Points, full backend network setup
+Deployment: 3 Access Points, full wired infrastructure, router/switch config
+
 
