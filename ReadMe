@@ -47,31 +47,32 @@ This hands-on infrastructure project involved planning, routing, configuring, an
 
 ---
 
-## 📷 Project Photos
+## 📷 Project Gallery
 
-### Kitchen Area – AP Install & Cable Routing
-Mounted UniFi AP on ceiling with clean vertical cable routing.
-![Kitchen Install](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/IMG_20220624_165935.jpg)
+### 🍳 Kitchen Area – AP Deployments
+*Mounted UniFi APs on the ceiling with clean vertical cable routing to handle back-of-house ticketing traffic.*
 
-### Kitchen Area - 2nd AP Install & Cable Routing
-Mounted a second UniFi AP for stronger internet.
-![Kitchen Install](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/kitchen_install.jpg)
+| Primary Kitchen AP | Secondary Kitchen AP |
+| :---: | :---: |
+| ![Kitchen Install](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/IMG_20220624_165935.jpg) | ![Kitchen Install](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/kitchen_install.jpg) |
 
-### Back Room – Network Hardware
-Ethernet routing and switch placement in service cabinet.
-![Backroom Wiring](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/cables.jpg)
+***
 
-### Back Room – Ceiling-Mounted Access Point  
-Mounted a ceiling AP in the dining room area to improve WiFi for customer seating and POS devices.
-![Ceiling AP](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/accesspoint.jpg)
+### 📦 Back Room & Dining Core
+*Structured service cabinet placement alongside dining room wireless coverage extensions.*
 
-### Front Counter – Router & Switch Setup  
-Primary router used to power the network. Ethernet cables were routed through the basement and connected to multiple switches throughout the building to ensure full coverage and performance.
-![Main Router/Switch](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/front_desk.jpg)
+| Infrastructure & Switch Cabinet | Dining Room Ceiling AP |
+| :---: | :---: |
+| ![Backroom Wiring](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/cables.jpg) | ![Ceiling AP](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/accesspoint.jpg) |
 
-### Front Counter – Main POS Tablet
-Primary POS tablet used for front-of-house transactions.
-![Main Counter](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/counter.jpg)
+***
+
+### 💳 Front Counter – Operations Core
+*The primary network brain routed securely to the front-of-house point of sale tablet.*
+
+| Primary Router & Switch Setup | Main POS Tablet Interface |
+| :---: | :---: |
+| ![Main Router/Switch](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/front_desk.jpg) | ![Main Counter](https://raw.githubusercontent.com/Alexs2256/Restaurant-Network-Installation-Mosaic-Caf-/refs/heads/main/images/counter.jpg) |
 
 ---
 
@@ -103,5 +104,3 @@ Primary POS tablet used for front-of-house transactions.
 **Mosaic Café – Old Bridge, NJ**  
 Completed: 2021  
 Deployment: 3 Access Points, full wired infrastructure, router/switch config
-
-
