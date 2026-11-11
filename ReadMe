@@ -1,30 +1,50 @@
-Small-Business Network Installation & Deployment – Mosaic Café
+# 🌐 Small-Business Network Installation & Deployment
+### 📍 Mosaic Café | Old Bridge, NJ
 
-Location: Old Bridge, NJ
-Completed: 2021
-Deployment: Three Ubiquiti UniFi access points, wired Ethernet infrastructure, router, network switches, and POS device connectivity.
+**Successfully deployed a robust, high-performance network infrastructure for Mosaic Café to support mission-critical restaurant operations, seamless POS transactions, and reliable customer Wi-Fi.**
 
-Project Overview
+---
 
-Planned and completed a network infrastructure installation for Mosaic Café, a restaurant in Old Bridge, NJ. The deployment included establishing wired and wireless network connectivity throughout the building to support point-of-sale (POS) systems, kitchen printers, staff devices, and customer Wi-Fi.
+## 📝 Project Overview
 
-The work involved selecting and positioning network hardware, installing ceiling-mounted wireless access points, routing Ethernet cabling between areas of the building, setting up network switches, integrating POS equipment, and testing wireless coverage and connectivity.
+This hands-on infrastructure project involved planning, routing, configuring, and deploying a hybrid wired and wireless network. The installation guarantees zero-downtime connectivity for point-of-sale (POS) systems, kitchen printers, staff backend devices, and guest internet access. 
 
-This was a hands-on infrastructure deployment, followed by ongoing troubleshooting and support of the restaurant's network-connected equipment.
+* **Completed:** 2021
+* **Role:** Lead Network Deployment & Ongoing Technical Support
 
-Scope of Work
+---
 
-Wireless Infrastructure: Installed three ceiling-mounted Ubiquiti UniFi access points in the kitchen, back room, and dining area to improve wireless coverage throughout the restaurant.
+## 🛠️ Hardware & Tech Stack
 
-Structured Cabling: Routed Ethernet cabling through the building, including basement cable runs, and used surface-mount raceways for clean, organized cable management.
+| Category | Component / Tools Used |
+| :--- | :--- |
+| **Wireless Infrastructure** | 3x Ubiquiti UniFi Access Points |
+| **Routing & Switching** | Enterprise Network Switches, Primary Gateway Router, Power Adapters |
+| **Cabling & Management** | Solid-core Ethernet cabling, Surface-mount raceways |
+| **Physical Tools** | Cable crimpers, Punch-down tools, Wall/Screw mounts, Testing equipment |
+| **Connected Endpoints** | Front-of-house POS tablets, Kitchen ticket printers, Staff devices |
 
-Network Hardware: Set up the primary router, network switches, power adapters, and supporting hardware to distribute connectivity throughout the building.
+---
 
-POS Integration: Connected and supported front-of-house POS tablets, kitchen printers, and other network-dependent equipment.
+## 📐 Scope of Work
 
-Installation & Testing: Mounted access points, established wired connections, tested Wi-Fi coverage, and troubleshot connectivity issues.
+### 📶 Wireless Infrastructure
+* Deployed **three ceiling-mounted Ubiquiti UniFi access points** strategically mapped across the kitchen, back room, and dining area to eliminate dead zones.
+* Configured dedicated, isolated SSIDs for secure restaurant business operations and public customer access.
 
-Ongoing Technical Support: Served as an on-site technical resource for network, hardware, printer, and device connectivity issues affecting restaurant operations.
+### 🔌 Structured Cabling & Hardware Setup
+* Architected and routed Ethernet core infrastructure through basement pathways to eliminate visible wire clutter.
+* Utilized professional **surface-mount raceways** for clean, protected vertical drops and aesthetic cable management.
+* Rack-mounted and configured central network switches, routers, and power distribution units.
+
+### 💼 POS & Systems Integration
+* Integrated front-of-house (FOH) POS tablets and back-of-house (BOH) kitchen printers into the high-priority network lane.
+* Completed rigorous signal testing and packet-loss validation to ensure uninterrupted transactional traffic.
+
+### 🛠️ Maintenance & Support
+* Conducted post-installation signal-mapping and coverage performance validation.
+* Provided proactive ongoing on-site troubleshooting for hardware lifecycle updates and device connectivity.
+
 ---
 
 ## 📷 Project Photos
