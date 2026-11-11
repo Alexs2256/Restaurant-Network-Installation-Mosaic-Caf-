@@ -1,16 +1,30 @@
-# Restaurant Network Installation – Mosaic Café
+Small-Business Network Installation & Deployment – Mosaic Café
 
-This project documents a full small business network installation completed for Mosaic Café in Old Bridge, NJ. Work included hardware selection, access point placement, Ethernet cabling, device setup, and hands-on support.
+Location: Old Bridge, NJ
+Completed: 2021
+Deployment: Three Ubiquiti UniFi access points, wired Ethernet infrastructure, router, network switches, and POS device connectivity.
 
----
+Project Overview
 
-## 🔧 Scope of Work
-- Installation of ceiling-mounted Ubiquiti UniFi Access Points
-- Cable management using surface-mount raceways
-- POS printer and device network integration
-- Network switch and power adapter setup
-- WiFi coverage testing and troubleshooting
+Planned and completed a network infrastructure installation for Mosaic Café, a restaurant in Old Bridge, NJ. The deployment included establishing wired and wireless network connectivity throughout the building to support point-of-sale (POS) systems, kitchen printers, staff devices, and customer Wi-Fi.
 
+The work involved selecting and positioning network hardware, installing ceiling-mounted wireless access points, routing Ethernet cabling between areas of the building, setting up network switches, integrating POS equipment, and testing wireless coverage and connectivity.
+
+This was a hands-on infrastructure deployment, followed by ongoing troubleshooting and support of the restaurant's network-connected equipment.
+
+Scope of Work
+
+Wireless Infrastructure: Installed three ceiling-mounted Ubiquiti UniFi access points in the kitchen, back room, and dining area to improve wireless coverage throughout the restaurant.
+
+Structured Cabling: Routed Ethernet cabling through the building, including basement cable runs, and used surface-mount raceways for clean, organized cable management.
+
+Network Hardware: Set up the primary router, network switches, power adapters, and supporting hardware to distribute connectivity throughout the building.
+
+POS Integration: Connected and supported front-of-house POS tablets, kitchen printers, and other network-dependent equipment.
+
+Installation & Testing: Mounted access points, established wired connections, tested Wi-Fi coverage, and troubleshot connectivity issues.
+
+Ongoing Technical Support: Served as an on-site technical resource for network, hardware, printer, and device connectivity issues affecting restaurant operations.
 ---
 
 ## 📷 Project Photos
