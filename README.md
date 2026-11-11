@@ -106,3 +106,6 @@ This hands-on infrastructure project involved planning, routing, configuring, an
 **Mosaic Café – Old Bridge, NJ**  
 Completed: 2021  
 Deployment: 3 Access Points, full wired infrastructure, router/switch config
+
+## Live Environment & Proof of Operation
+  https://www.tiktok.com/@mosaiccafe.ob
