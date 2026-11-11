@@ -7,7 +7,7 @@
 
 ## 📝 Project Overview
 
-<img width="1380" height="752" alt="image" src="https://github.com/user-attachments/assets/36d58fb3-336d-4c1d-b97d-e1216d61a2db" />
+<img width="1380" height="752" alt="image" src="https://github.com/user-attachments/assets/c91e11a2-ef29-4b17-bf08-528288c70bf5" />
 
 This hands-on infrastructure project involved planning, routing, configuring, and deploying a hybrid wired and wireless network. The installation guarantees zero-downtime connectivity for point-of-sale (POS) systems, kitchen printers, staff backend devices, and guest internet access. 
 
