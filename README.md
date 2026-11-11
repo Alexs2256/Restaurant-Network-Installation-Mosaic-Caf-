@@ -109,3 +109,4 @@ Deployment: 3 Access Points, full wired infrastructure, router/switch config
 
 ## Live Environment & Proof of Operation
   https://www.tiktok.com/@mosaiccafe.ob
+  https://www.facebook.com/mosaicafe.ob/
