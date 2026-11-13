@@ -20,7 +20,7 @@ This hands-on infrastructure project involved planning, routing, configuring, an
 
 | Category | Component / Tools Used |
 | :--- | :--- |
-| **Wireless Infrastructure** | 3x Ubiquiti UniFi Access Points |
+| **Wireless Infrastructure** | 4x Ubiquiti UniFi Access Points |
 | **Routing & Switching** | Enterprise Network Switches, Primary Gateway Router, Power Adapters |
 | **Cabling & Management** | Solid-core Ethernet cabling, Surface-mount raceways |
 | **Physical Tools** | Cable crimpers, Punch-down tools, Wall/Screw mounts, Testing equipment |
