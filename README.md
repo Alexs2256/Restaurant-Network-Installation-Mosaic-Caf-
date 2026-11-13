@@ -31,7 +31,7 @@ This hands-on infrastructure project involved planning, routing, configuring, an
 ## 📐 Scope of Work
 
 ### 📶 Wireless Infrastructure
-* Deployed **three ceiling-mounted Ubiquiti UniFi access points** strategically mapped across the kitchen, back room, and dining area to eliminate dead zones.
+* Deployed **four ceiling-mounted Ubiquiti UniFi access points** strategically mapped across the kitchen, back room, and dining area to eliminate dead zones.
 * Configured dedicated, isolated SSIDs for secure restaurant business operations and public customer access.
 
 ### 🔌 Structured Cabling & Hardware Setup
@@ -105,7 +105,7 @@ This hands-on infrastructure project involved planning, routing, configuring, an
 ## 📍 Location
 **Mosaic Café – Old Bridge, NJ**  
 Completed: 2021  
-Deployment: 3 Access Points, full wired infrastructure, router/switch config
+Deployment: 4 Access Points, full wired infrastructure, router/switch config
 
 ## Live Environment & Proof of Operation
   - https://www.tiktok.com/@mosaiccafe.ob
